@@ -1,6 +1,6 @@
 # Jogo dos troncos
 
-A Pen created on CodePen.
+Projeto criado através da Imersão DEV da Alura. O controle do fluxo do jogo foi realizado com a utilização de condicionais e loops.
 
-Original URL: [https://codepen.io/Isa-abc/pen/EaxrReP](https://codepen.io/Isa-abc/pen/EaxrReP).
+Projeto feito na IDE online CodePen (https://codepen.io/Isa-abc/pen/EaxrReP).
 
