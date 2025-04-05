@@ -25,7 +25,7 @@ function jogar() {
   if (escolhaJogador == troncoRachado) {
     alert("Ah não! Você escolheu o tronco rachado!");
     rodada = 10;
-    ganhou = 1;
+    ganhou = 0;
   } else {
     alert(
       "Conseguiu! Pressione OK para avançar. O tronco rachado era o: " +
