@@ -1,2 +1,3 @@
-# jogo-dos-troncos
-Um simples jogo desenvolvido em Javascript em que o jogador precisa atravessar o rio.
+# Jogo dos troncos
+Um simples jogo desenvolvido em Javascript que tem como objetivo que o jogador atravesse o rio. 
+Caso o jogador escolha um tronco que esteja rachado, ele perde o jogo.
